@@ -16,7 +16,7 @@ from db import (
     update_eco_score
 )
 
-# ================= CONFIG =================
+# ================= CONFIGUARATION=================
 st.set_page_config(page_title="♻️ AI Waste Segregation", layout="wide")
 init_database()
 
